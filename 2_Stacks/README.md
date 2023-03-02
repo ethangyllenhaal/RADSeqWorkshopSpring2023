@@ -1,1 +1,1 @@
-This directory has a script for running the reference-based alignment side of stacks in parallel and two scripts for counting reads in parallel.
+This directory has a script for running the reference-based alignment side of stacks in parallel (ref_trial.slurm), two scripts for process radtags and denovo assembly, and two scripts for counting reads in parallel.
